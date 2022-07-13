@@ -8,18 +8,25 @@ Clone the repository in the desired location on your machine.
 
 cd into the cloned Repository:
 
+```bash
 cd ChessAssist
+```
 
 Create a virtual environment and activate it:
 
+```bash
 python3 -m venv virtenv
-
 source virtenv/bin/activate
+```
 
 Install dependencies from requirements.txt:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the program:
 
+```bash
 python run.py
+```
